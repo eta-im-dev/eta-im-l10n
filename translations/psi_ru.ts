@@ -3701,6 +3701,17 @@ Proceed?</source>
     </message>
 </context>
 <context>
+    <name>EnumMessagesPlugin</name>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation>Пропущенных сообщений: %1</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation>Авторы: </translation>
+    </message>
+</context>
+<context>
     <name>EventDlg</name>
     <message>
         <source>Identity:</source>
